@@ -1,6 +1,7 @@
 # StellarFramesDemos
 Storing Demo FIles For Project StellarFrames
 
+## Notebook version is always updated first
 
 
 Dependencies for the offline version
